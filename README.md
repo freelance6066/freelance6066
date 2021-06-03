@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @freelance6066
 - 👀 I’m interested in learning new areas always.
 - 🌱 I’m currently learning automation on github activities such as git hooks, stale branch removal, branch naming and git tagging
-- 💞️ I’m looking to collaborate on gihub automation
+- 💞️ I’m looking to collaborate on gihub automation Communit
 - 📫 How to reach me kiran.yelamarti@gmail.com
 
 <!---
